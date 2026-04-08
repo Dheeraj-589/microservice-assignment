@@ -10,4 +10,6 @@ export class Product {
 
   stock: number;
 
+  value: number;
+
 }
